@@ -13,7 +13,7 @@ import random
 st.set_page_config("🌦️ WeatherWise 360°", layout="centered")
 
 # Sidebar
-st.sidebar.image("D:/images/weather.png", caption="🌤️ WeatherWise 360°", use_container_width=True)
+st.sidebar.image("assets/weather.png", caption="🌤️ WeatherWise 360°", use_container_width=True)
 st.sidebar.title("Weather Dashboard")
 st.sidebar.markdown("Stay ahead of the weather!")
 
